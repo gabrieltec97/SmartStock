@@ -5,4 +5,4 @@
 </p>
 
 # SmartStock
-Sistema de gerenciamento de estoque que permite controlar e rastrear para qual condomínio saiu cada item do estoque juntamente com seu técnico responsável.
+Sistema de gerenciamento de estoque que permite controlar e rastrear saídas de itens do estoque identificando o condomínio de destino e o técnico responsável.
