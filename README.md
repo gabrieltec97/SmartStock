@@ -32,14 +32,14 @@ Back-end:
 - Busca em tempo real de ocorrências via Id ou nome do condomínio
 - Gerenciamento de ocorrências
 - Dashboard com comparativo de ocorrências ao longo dos meses
-- Filtragem de entregas por mês
-- Informações de unidades com mais entregas
+- Filtragem de ocorrências por mês
+- Informações de unidades com mais ocorrências
 - ACL para controle de permissões de usuário
 
 Gerenciamento total (CRUD) de:
 
-- Entregas
-- Unidades
+- Condomínios
+- Itens
 - Usuários
 
 O sistema disponibiliza 2 (dois) tipos de usuário:
