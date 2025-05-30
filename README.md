@@ -17,6 +17,7 @@ Front-end:
 - JavaScript ES6
 - Bootstrap
 - Notyf
+- SweetAlert2
 
 Back-end:
 - Node.Js
