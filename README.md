@@ -48,7 +48,7 @@ Gerenciamento total (CRUD) de:
 1. Tenha em sua máquina um ambiente que faça a emulação de um servidor, como Xampp ou Docker instalado e parametrizado.
 2. Clone o repositório:
 ```bash
-git clone git@github.com:gabrieltec97/E-Locker
+git clone git@github.com:gabrieltec97/SmartStock
 ```
 3. A continuar daqui.
 
