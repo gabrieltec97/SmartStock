@@ -5,6 +5,8 @@
 </p>
 
 # SmartStock - Desenvolvimento ainda não iniciado
+Sistema já desenvolvido anteriormente em linguagem PHP. Irei me desafiar a desenvolver o mesmo projeto utilizando o Node.Js.
+
 Sistema de gerenciamento de estoque que permite controlar e rastrear saídas de itens do estoque identificando o condomínio de destino e o técnico responsável. 
 
 O sistema também disponibiliza de um dashboard que informa a quantidade de ocorrências em cada mês e, para o mês atual informa quais itens mais saíram para chamados.
