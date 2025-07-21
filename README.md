@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# SmartStock - Desenvolvimento ainda não iniciado
+# SmartDesk - Desenvolvimento ainda não iniciado
 Sistema já desenvolvido anteriormente em linguagem PHP. Irei me desafiar a desenvolver o mesmo projeto utilizando o Node.Js.
 
 Sistema de gerenciamento de estoque que permite controlar e rastrear saídas de itens do estoque identificando o condomínio de destino e o técnico responsável. Possui um dashboard analítico que informa a quantidade de ocorrências em cada mês e, para o mês atual informa quais itens mais saíram para chamados.
@@ -23,7 +23,6 @@ Back-end:
 - Node.Js
 - Express.Js
 - MySql
-- Livewire
 
 ## ✨ Principais Funcionalidades
 
@@ -48,7 +47,7 @@ Gerenciamento total (CRUD) de:
 1. Tenha em sua máquina um ambiente que faça a emulação de um servidor, como Xampp ou Docker instalado e parametrizado.
 2. Clone o repositório:
 ```bash
-git clone git@github.com:gabrieltec97/SmartStock
+git clone git@github.com:gabrieltec97/SmartDesk
 ```
 3. A continuar daqui.
 
